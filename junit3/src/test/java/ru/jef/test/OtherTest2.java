@@ -1,3 +1,5 @@
+package ru.jef.test;
+
 import junit.framework.TestCase;
 
 /**
@@ -5,7 +7,7 @@ import junit.framework.TestCase;
  */
 public class OtherTest2 extends TestCase {
   public OtherTest2(){
-    //System.out.println("OtherTest2 constructor ");
+    //System.out.println("ru.jef.test.OtherTest2 constructor ");
   }
 
   public void testOtehrTest2(){

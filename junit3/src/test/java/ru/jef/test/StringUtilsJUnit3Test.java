@@ -1,3 +1,5 @@
+package ru.jef.test;
+
 import junit.framework.TestCase;
 
 import java.util.HashMap;

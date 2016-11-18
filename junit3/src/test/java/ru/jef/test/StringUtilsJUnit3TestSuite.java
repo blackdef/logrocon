@@ -1,6 +1,9 @@
+package ru.jef.test;
+
 import junit.framework.Test;
-import junit.framework.TestResult;
 import junit.framework.TestSuite;
+import ru.jef.test.OtherTest1;
+import ru.jef.test.OtherTest2;
 
 /**
  * Created by plotnikov on 18.11.2016.

@@ -14,6 +14,15 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../junit-3.8.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
           <root url="jar://$APPLICATION_HOME_DIR$/lib/junit.jar!/" />
         </CLASSES>
         <JAVADOC />

@@ -1,3 +1,5 @@
+package ru.jef.test;
+
 /**
  * Created by plotnikov on 18.11.2016.
  */
