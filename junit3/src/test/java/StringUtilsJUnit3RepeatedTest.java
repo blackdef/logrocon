@@ -12,6 +12,6 @@ public class StringUtilsJUnit3RepeatedTest extends RepeatedTest{
     super(new StringUtilsJUnit3Test(), 10);
   }
   public void testIsEmputy(){
-    
+
   }
 }
