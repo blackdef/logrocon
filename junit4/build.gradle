@@ -9,5 +9,5 @@ repositories{
 }
 
 dependencies {
-	compile 'org.mod4j.org:junit:3.8.2'
+	
 }
