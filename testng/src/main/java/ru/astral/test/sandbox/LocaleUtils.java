@@ -61,5 +61,4 @@ public abstract class LocaleUtils {
       locales.add(ROOT_LOCALE);
       return locales;
     }
-  }
 }
