@@ -19,6 +19,12 @@ public class TestWatcherEx {
     }
 
     @Override
+    protected void succeeded(Description description) {
+      System.out.println("succeeded");
+      //throw new IllegalStateException();
+    }
+
+    @Override
     protected void finished(Description description) {
       System.out.println("finished");
     }

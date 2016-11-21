@@ -22,6 +22,6 @@ public class TestThrowsNullPointerException {
   @Test(expected=NullPointerException.class)
   public void throwsNullPointerExceptionWithMessage2() {
     System.out.println("test2");
-  //  throw new NullPointerException("Nothing");
+    throw new NullPointerException("Nothing");
   }
 }

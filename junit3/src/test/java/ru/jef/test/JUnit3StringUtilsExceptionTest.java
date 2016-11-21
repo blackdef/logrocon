@@ -15,7 +15,10 @@ public class JUnit3StringUtilsExceptionTest extends ExceptionTestCase {
   }
 
   public void testToHexString() {
+    System.out.println("before test toHexString testToHexString");
+
     StringUtils.toHexString(null);
+    System.out.println("after test toHexString testToHexString");
   }
 
 }

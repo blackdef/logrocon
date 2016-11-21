@@ -10,17 +10,17 @@ import org.junit.rules.Timeout;
  */
 public class TestTimeoutRule {
   @Rule
-  public TestRule timeout = new Timeout(1000);
+  public TestRule timeout = new Timeout(2000);
 
   @Test
   public void test() throws Exception {
     System.out.println("test");
-    Thread.sleep(500);
+    Thread.sleep(2500);
   }
 
-  @Test
+  @Test(timeout = 700)
   public void test2() throws Exception {
     System.out.println("test2");
-    Thread.sleep(1500);
+    Thread.sleep(1000);
   }
 }

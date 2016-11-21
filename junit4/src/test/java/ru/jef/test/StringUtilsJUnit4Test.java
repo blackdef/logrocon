@@ -17,13 +17,13 @@ public class StringUtilsJUnit4Test extends Assert{
     toHexStringData.put("", new byte[0]);
     toHexStringData.put("01020d112d7f", new byte[]{1,2,13,17,45,127});
     toHexStringData.put("00fff21180"  , new byte[]{0,-1,-14,17,-128});
-    //System.out.println(" setUpToHexStringData ");
+    System.out.println(" setUpToHexStringData ");
   }
 
   @After
   public void tearDownToHexStringData() {
     toHexStringData.clear();
-    //System.out.println(" tearDownToHexStringData ");
+    System.out.println(" tearDownToHexStringData ");
   }
 
   @Test
@@ -35,21 +35,21 @@ public class StringUtilsJUnit4Test extends Assert{
       final String actual = StringUtils.toHexString(testData);
       assertEquals(expected, actual);
     }
-    //System.out.println(" testToHexString ");
+    System.out.println(" testToHexString ");
   }
 
   @Test(expected = NullPointerException.class)
   public void testToHexStringWrong()
   {
-    //System.out.println(" befor exception testToHexStringWrong ");
+    System.out.println(" befor exception testToHexStringWrong ");
     StringUtils.toHexString(null);
     //System.out.println(" after exception testToHexStringWrong ");
   }
 
-  @Ignore
+//  @Ignore
   @Test(timeout = 1000)
   public void infinity(){
-    //System.out.println(" befor while infinity ");
+    System.out.println(" befor while infinity ");
     while(true);
   }
 }

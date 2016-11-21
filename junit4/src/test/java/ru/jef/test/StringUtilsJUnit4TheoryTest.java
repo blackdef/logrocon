@@ -16,13 +16,13 @@ public class StringUtilsJUnit4TheoryTest {
 
   @DataPoints
   public static Object[][] isEmptyData = new Object[][] {
-          { "", true },
+          { "", false },
           { " ", false }
   };
 
 
   @DataPoint
-  public static Object[] nullData = new Object[] { null, true };
+  public static Object[] nullData = new Object[] { null, false };
   @DataPoint
   public static Object[] fullData = new Object[] { "some string", false };
 
