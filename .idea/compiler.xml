@@ -23,6 +23,8 @@
       <module name="junit3_test" target="1.8" />
       <module name="junit4_main" target="1.8" />
       <module name="junit4_test" target="1.8" />
+      <module name="pattern_main" target="1.8" />
+      <module name="pattern_test" target="1.8" />
       <module name="testng_main" target="1.8" />
       <module name="testng_test" target="1.8" />
     </bytecodeTargetLevel>

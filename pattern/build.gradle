@@ -1,0 +1,13 @@
+apply plugin: 'java'
+
+/*apply plugin: 'application'
+mainClassName = "ru.astral.test.sandbox.MyFirstProgram" */
+
+
+repositories{
+    mavenCentral()
+}
+
+dependencies {
+	
+}
