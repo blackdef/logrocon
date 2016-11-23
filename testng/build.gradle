@@ -1,6 +1,5 @@
 apply plugin: 'java'
-apply plugin: 'application'
-mainClassName = "ru.astral.test.sandbox.MyFirstProgram"
+
 
 repositories{
     mavenCentral()
@@ -8,4 +7,13 @@ repositories{
 
 dependencies {
     compile 'org.testng:testng:6.9.13.6'
+}
+
+task demoTask(type: Test){
+    println("Start testing task.")
+    useTestNG() {
+        suites 'src/test/resources/groupscfg.xml'
+    }
+    println("Finish testing task.")
+
 }
