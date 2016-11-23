@@ -1,4 +1,4 @@
-package ru.astral.test.sandbox;
+package ru.jef.testng;
 
 /**
  * Created by Fedor on 18.10.2016.
