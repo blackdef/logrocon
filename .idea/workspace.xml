@@ -56,63 +56,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/composite/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompositePatternDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/composite/CompositePatternDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DependentObject1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/compositeentity/DependentObject1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-              <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DependentObject2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/compositeentity/DependentObject2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-              <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CoarseGrainedObject.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/compositeentity/CoarseGrainedObject.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -154,11 +97,87 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CompositeEntityPatternDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CompositeEntityPatternDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/compositeentity/CompositeEntityPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+              <folding>
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeMaker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/ShapeMaker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+              <folding>
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FacadePatternDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/FacadePatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -1225,12 +1244,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/junit3/src/test/java/ru/jef/test/StringUtilsJUnit3RepeatedTest.java" />
-        <option value="$PROJECT_DIR$/junit4/build.gradle" />
-        <option value="$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/StringUtilsJUnit3Test.java" />
-        <option value="$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/TestJUnit4Rules.java" />
-        <option value="$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/TempFolder.java" />
-        <option value="$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/TestChianRules.java" />
         <option value="$PROJECT_DIR$/testng/src/main/java/ru/astral/test/sandbox/LocaleUtils.java" />
         <option value="$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/JUnit4TestSuite.java" />
         <option value="$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/Unit.java" />
@@ -1276,6 +1289,12 @@
         <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/compositeentity/CompositeEntity.java" />
         <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/compositeentity/Client.java" />
         <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/compositeentity/CompositeEntityPatternDemo.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/Shape.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/Rectangle.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/Square.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/Circle.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/ShapeMaker.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/FacadePatternDemo.java" />
       </list>
     </option>
   </component>
@@ -1381,7 +1400,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="compositeentity" />
+              <option name="myItemId" value="facade" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1433,33 +1452,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CompositeEntityPatternDemo">
-    <configuration default="false" name="StringUtilsJUnit4TheoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.jef.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="junit4_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.jef.test" />
-      <option name="MAIN_CLASS_NAME" value="ru.jef.test.StringUtilsJUnit4TheoryTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/junit4" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.FacadePatternDemo">
     <configuration default="false" name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1528,6 +1521,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ru.jef.pattern.compositeentity.CompositeEntityPatternDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="pattern_main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FacadePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.jef.pattern.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ru.jef.pattern.facade.FacadePatternDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1785,19 +1798,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.StringUtilsJUnit4TheoryTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.AdapterPatternDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BuilderPatternDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CompositePatternDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CompositeEntityPatternDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.AdapterPatternDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BuilderPatternDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CompositePatternDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CompositeEntityPatternDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FacadePatternDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CompositeEntityPatternDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CompositePatternDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BuilderPatternDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.AdapterPatternDemo" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.StringUtilsJUnit4TheoryTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FacadePatternDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CompositeEntityPatternDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CompositePatternDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BuilderPatternDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.AdapterPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -1857,7 +1870,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43515542" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43515542" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1902,18 +1915,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/junit3/src/main/java/ru/jef/test/StringUtils.java" />
-    <entry file="file://$PROJECT_DIR$/junit3/src/test/java/ru/jef/test/StringUtilsJUnit3Test.java" />
-    <entry file="file://$PROJECT_DIR$/junit3/src/test/java/ru/jef/test/OtherTest1.java" />
-    <entry file="file://$PROJECT_DIR$/junit3/src/test/java/ru/jef/test/OtherTest2.java" />
-    <entry file="file://$PROJECT_DIR$/junit3/src/test/java/ru/jef/test/StringUtilsJUnit3TestSuite.java" />
     <entry file="file://$PROJECT_DIR$/junit3/src/test/java/ru/jef/test/JUnit3StringUtilsExceptionTest.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -2369,6 +2370,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/ShapeMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/facade/FacadePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding />
         </state>
       </provider>
