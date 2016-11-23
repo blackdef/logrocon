@@ -56,61 +56,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/mvc/Student.java">
+      <file leaf-file-name="AbstractCustomer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/AbstractCustomer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-              <folding>
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/mvc/StudentView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="136">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/mvc/StudentController.java">
+      <file leaf-file-name="RealCustomer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/RealCustomer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+            <state relative-caret-position="119">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
               <folding>
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MVCPatternDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/mvc/MVCPatternDemo.java">
+      <file leaf-file-name="NullCustomer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/NullCustomer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+            <state relative-caret-position="85">
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+              <folding>
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/CustomerFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NullPatternDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/NullPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -1177,11 +1179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/StringUtilsJUnit4CategoriesTest.java" />
-        <option value="$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/OtherCategoryTestClass.java" />
-        <option value="$PROJECT_DIR$/junit3/src/test/java/ru/jef/test/StringUtilsJUnit3Test.java" />
-        <option value="$PROJECT_DIR$/junit3/src/test/java/ru/jef/test/OtherTest1.java" />
-        <option value="$PROJECT_DIR$/junit3/src/test/java/ru/jef/test/StringUtilsJUnit3TestSuite.java" />
         <option value="$PROJECT_DIR$/junit3/src/test/java/ru/jef/test/JUnit3StringUtilsExceptionTest.java" />
         <option value="$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/StringUtilsJUnit4Test.java" />
         <option value="$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/TestWatcherEx.java" />
@@ -1228,6 +1225,11 @@
         <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/mvc/StudentView.java" />
         <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/mvc/StudentController.java" />
         <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/mvc/MVCPatternDemo.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/AbstractCustomer.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/RealCustomer.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/NullCustomer.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/CustomerFactory.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/NullPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -1332,36 +1334,6 @@
               <option name="myItemId" value="pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mvc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_frameworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -1385,27 +1357,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MVCPatternDemo">
-    <configuration default="false" name="BuilderPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.jef.pattern.builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.jef.pattern.builder.BuilderPatternDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="pattern_main" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.NullPatternDemo">
     <configuration default="false" name="CompositePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1474,6 +1426,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ru.jef.pattern.mvc.MVCPatternDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="pattern_main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NullPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.jef.pattern.nullobject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ru.jef.pattern.nullobject.NullPatternDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1731,19 +1703,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BuilderPatternDemo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CompositePatternDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CompositeEntityPatternDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FacadePatternDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MVCPatternDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CompositePatternDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CompositeEntityPatternDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FacadePatternDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MVCPatternDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.NullPatternDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MVCPatternDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FacadePatternDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CompositeEntityPatternDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CompositePatternDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BuilderPatternDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.NullPatternDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MVCPatternDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FacadePatternDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CompositeEntityPatternDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CompositePatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -1848,72 +1820,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/TestThrowsNullPointerException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/TestTimeoutRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/TestJUnit4Rules.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="e#170#171#0" expanded="false" />
-            <element signature="e#217#218#0" expanded="false" />
-            <element signature="e#256#257#0" expanded="false" />
-            <element signature="e#298#299#0" expanded="false" />
-            <element signature="e#356#357#0" expanded="false" />
-            <element signature="e#406#407#0" expanded="false" />
-            <element signature="e#447#448#0" expanded="false" />
-            <element signature="e#492#493#0" expanded="false" />
-            <element signature="e#524#525#0" expanded="false" />
-            <element signature="e#561#562#0" expanded="false" />
-            <element signature="e#593#594#0" expanded="false" />
-            <element signature="e#630#631#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/TestChianRules.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#681#682#0" expanded="false" />
-            <element signature="e#711#712#0" expanded="false" />
-            <element signature="e#781#782#0" expanded="false" />
-            <element signature="e#833#834#0" expanded="false" />
-            <element signature="e#903#904#0" expanded="false" />
-            <element signature="e#955#956#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/JUnit4TestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/junit4/src/test/java/ru/jef/test/Unit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -2395,6 +2301,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="439">
           <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/AbstractCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/RealCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/NullCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/CustomerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/ru/jef/pattern/nullobject/NullPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
           <folding />
         </state>
       </provider>
