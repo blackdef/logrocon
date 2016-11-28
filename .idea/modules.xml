@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit4.iml" filepath="$PROJECT_DIR$/.idea/modules/junit4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit4_main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit4_main.iml" group="junit4" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit4_test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit4_test.iml" group="junit4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pageobject.iml" filepath="$PROJECT_DIR$/.idea/modules/pageobject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pageobject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pageobject_main.iml" group="pageobject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pageobject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pageobject_test.iml" group="pageobject" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pattern_main.iml" group="pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pattern_test.iml" group="pattern" />

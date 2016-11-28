@@ -10,10 +10,10 @@ dependencies {
 }
 
 task demoTask(type: Test){
-    //println("Start testing task.")
+
     useTestNG() {
         suites 'src/test/resources/groupscfg.xml'
     }
-    //println("Finish testing task.")
+
 
 }
