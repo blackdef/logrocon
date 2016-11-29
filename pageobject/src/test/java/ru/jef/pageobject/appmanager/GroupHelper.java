@@ -1,9 +1,13 @@
 package ru.jef.pageobject.appmanager;
 
-import org.omg.CORBA.ValueBaseHelper;
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import ru.jef.pageobject.model.GroupData;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by Fedor on 28.11.2016.
@@ -37,9 +41,45 @@ public class GroupHelper extends BaseHelper {
     click(By.xpath("//div[@id='content']/form/input[5]"));
   }
 
-  public void selectGroup() {
-    if (!wd.findElement(By.name("selected[]")).isSelected()) {
-      click(By.name("selected[]"));
+  public void selectGroup(int index) {
+    WebElement element = wd.findElements(By.name("selected[]")).get(index);
+    if (!element.isSelected()) {
+      element.click();
     }
+  }
+
+  public void creationGroup(GroupData group) {
+    initGroupCreation();
+    fillGroupForm(group);
+    submitGroupCreation();
+    returnGroupPage();
+  }
+
+  public boolean isThereAGroups() {
+    try
+    {
+      wd.findElement(By.name("selected[]"));
+      return true;
+    }
+    catch (NoSuchElementException ex)
+    {
+      return false;
+    }
+
+
+  }
+
+  public List<GroupData> getGroupList() {
+    List<GroupData> groups = new ArrayList<GroupData>();
+
+    return groups;
+  }
+
+  public void initGroupModification() {
+    click(By.name("edit"));
+  }
+
+  public void submitGroupModification() {
+    click(By.name("update"));
   }
 }
