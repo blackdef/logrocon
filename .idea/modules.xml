@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pattern_main.iml" group="pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pattern_test.iml" group="pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/po.iml" filepath="$PROJECT_DIR$/.idea/modules/po.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/po_main.iml" filepath="$PROJECT_DIR$/.idea/modules/po_main.iml" group="po" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/po_test.iml" filepath="$PROJECT_DIR$/.idea/modules/po_test.iml" group="po" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/testng.iml" filepath="$PROJECT_DIR$/.idea/modules/testng.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/testng_main.iml" filepath="$PROJECT_DIR$/.idea/modules/testng_main.iml" group="testng" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/testng_test.iml" filepath="$PROJECT_DIR$/.idea/modules/testng_test.iml" group="testng" />

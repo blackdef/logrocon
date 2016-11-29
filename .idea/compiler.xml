@@ -27,6 +27,8 @@
       <module name="pageobject_test" target="1.8" />
       <module name="pattern_main" target="1.8" />
       <module name="pattern_test" target="1.8" />
+      <module name="po_main" target="1.8" />
+      <module name="po_test" target="1.8" />
       <module name="testng_main" target="1.8" />
       <module name="testng_test" target="1.8" />
     </bytecodeTargetLevel>
