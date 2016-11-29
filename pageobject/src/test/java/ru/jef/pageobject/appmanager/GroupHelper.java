@@ -71,7 +71,11 @@ public class GroupHelper extends BaseHelper {
 
   public List<GroupData> getGroupList() {
     List<GroupData> groups = new ArrayList<GroupData>();
-
+    for (WebElement element : wd.findElements(By.cssSelector("span.group"))){
+      String name = element.getText();
+      int id = Integer.parseInt(element.findElement(By.name("selected[]")).getAttribute("value"));
+      groups.add(new GroupData(id, name, null, null));
+    }
     return groups;
   }
 
